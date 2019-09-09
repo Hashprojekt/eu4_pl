@@ -1,0 +1,8 @@
+<CENTER><A HREF=http://www.pracawusa.com.pl/></A> <!-- text used in the movie-->
+<!--WORK & TRAVELUSANAJNI—SZE CENY !!!SPRAWD? !Bernardynska 3/318"Pa3ac Parysów"3 pietrotel. 532 20 73--><OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0"
+ WIDTH="468" HEIGHT="60" id="access_us" ALIGN="">
+ <PARAM NAME=movie VALUE="rys/przew.swf"> <PARAM NAME=quality VALUE=high> <PARAM NAME=bgcolor VALUE=#FFAA00> <EMBED src="rys/przew.swf" quality=high bgcolor=#FFAA00  WIDTH="468" HEIGHT="60" NAME="access_us" ALIGN=""
+ TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED>
+</OBJECT> 
+</center>

@@ -1,0 +1,1 @@
+<img SRC="rys/6.jpg">
