@@ -1,0 +1,54 @@
+<STYLE TYPE="text/css">
+<!--
+	a :link {
+        text-decoration: none;
+		  }
+	a :hover {
+        text-decoration: none;
+		  }
+	A:VISITED {
+        text-decoration: none;
+		  }
+	A:active {
+        text-decoration: none;
+		  }	
+   div {color:#a308eb;
+        }
+	.a {color:#a308eb;
+       text-decoration: none;
+		 font-family: Verdana;
+		}
+	.b {
+        font-family: Verdana;
+        color:#402000;
+        text-decoration: none;
+        font-size: smaller;
+		}
+	.c {color:#0a5f06;
+       text-decoration: none;
+		 font-family: Verdana;
+		 font-size: 14px;
+		 }
+	.img {
+		padding: 5px;
+		border: 1px solid #ccc;
+		margin: 2px;
+	}
+
+	.img:hover {
+		border-color: #06c;
+	}
+	
+	.stronicowanieOn{
+        font-size: 20px;
+        font-weight: bold;
+        text-decoration: none;
+        color: red;
+    }
+	.d {color:#3a3b36;
+       text-decoration: none;
+		 font-family: Verdana;
+		 font-size: 10px;
+	}
+-->
+</STYLE>

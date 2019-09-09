@@ -1,0 +1,154 @@
+body{ background-color: #F9FAFB; background-image:  url('img/white.gif'); background-repeat: repeat-y; margin: 0 0; }
+
+
+a:link,a:visited,a:active{ background: transparent; color: #296aa1; font-family: Verdana; font-size: 12px; text-decoration: none; }
+a:hover{ color: #1b4263; text-decoration: none; }
+
+
+div#header{position:relative}
+div#header h1{height:80px;line-height:80px;margin:0;
+padding-left:10px;}
+div#header a{position:absolute;right:0;top:23px}
+div#content p{line-height:1.4}
+
+div#footer p{margin:0;padding:5px 10px}
+div#footer a{display:inline;padding:0;color: #C6D5FD}
+div#footer a{display:inline;padding:0;color: #C6D5FD}
+
+div#wrapper{float:left;width:100%}
+div#content{margin: 0 200px;  }
+div#navigation{float:left;width:200px;margin-left:-200px}
+div#extra{float:left;width:200px;margin-left:-100%}
+div#footer{clear:left;width:100%; }
+div#footer2{font-size: 10px; color: silver; text-align: center }
+div#container{position: absolute; margin-top: 130px; left: 0;}
+div#srodek{margin-left: 60px; border: 1px solid #e8e8e8; background-color: white; padding: 5px;}
+
+
+.m1 a, .m1 a:visited {
+margin: 0;
+display: block;
+padding: 2px 2px 2px 24px;
+border-left: 4px solid #fff;
+background-color: #fafafa;
+
+color: #000;
+text-decoration: none;
+}
+
+.m1 a:hover {
+border-left: 4px solid #c80505;
+background-color: #dedede;
+}
+
+.m0 a, .m0 a:visited {
+margin: 0;
+display: block;
+font-size: 10px;
+font-weight: bold;
+color:#c80505;
+background-color: #F1F1F1;
+border-left: 4px solid #5D9BD6;
+padding: 10px 0px 10px 10px;
+text-decoration: none;
+}
+
+
+
+.ms_menu{padding: 0;
+margin: 0;
+list-style-type: none;
+}
+.m1,.m0{
+width: 100%;
+margin-top: 2px;
+}
+
+
+
+
+
+
+
+img{ border: none; }
+
+body, div{ font-family: Verdana; font-size: 12px; }
+#top_3, #top_4, #top_8, #top_9, #menu, #wing, #main{ position: absolute; }
+#top_5, #top_6, #main_in { float: left; }
+#top_1, #top_7, #top_8 { width: 100%; }
+#top_3, #top_8, #top_9{ left: 0; }
+#top_1{ height: 69px; background: url('img/top_up.png') repeat-x top left; }
+#top_2{ clear: both; height: 164px; background: url('img/top_main.png') no-repeat top left; }
+#top_3{ top: 0; }
+#top_4{ top: 49px; left: 380px; }
+#top_5{ clear: both; position: relative; }
+#top_6{ position: relative; }
+#top_7{ display:block; margin-left:-400px; float: right; background: url('img/middpass.png') repeat-x top left; height: 60px; }
+#top_8{ top: 294px; background: url('img/menu_tlocd.png') repeat-x top left; height: 103px; z-index: 0; }
+#top_9{ top: 293px; background: url('img/menu_tlo.png') no-repeat top left; width: 249px; height: 103px; }
+#menu{ top: 175px; left: 55px; width: 190px; }
+#wing{ top: 0; left: 638px; }
+#main{ top: 370px; left: 255px; width: 730px; }
+
+#main_right, .main_right{ margin-left: 5px; border: 1px solid #e8e8e8; background-color: white; width: 180px; }
+.main_in2{ clear: both; }
+
+#city{ position: absolute; top: 15px; left: 680px; }
+#step{ position: absolute; top: 320px; left: 280px; z-index: 900;}
+#head{ font-size: 10px; color: #616161; position: absolute; top: 298px; left: 270px; z-index: 900;}
+#head a{ font-size: 10px; }
+
+a.admin_link:link,a.admin_link:visited,a.admin_link:active{ margin: 1px; padding: 3px; line-height: 250%; background: #FFFFFF; border: 1px solid #000000; color: #D23D24; text-decoration: none; }
+a.admin_link:hover{ margin: 1px; padding: 3px; line-height: 250%; background: #F9EC84; border: 1px solid black; color: black; text-decoration: none; }
+
+
+a.linki:link,a.linki:visited,a.linki:active{ margin: 1px; padding: 3px; line-height: 250%; background: #FFFFFF; border: 1px solid #000000; color: #D23D24; text-decoration: none; font-weight: bold; }
+a.linki:hover{ margin: 1px; padding: 3px; line-height: 250%; background: #F9EC84; border: 1px solid black; color: black; text-decoration: none; font-weight: bold;  }
+
+
+
+
+
+
+
+.form-wiersz{ width: 300px; }
+.form-left{ float: left; }
+.form-right{ float: right; }
+form{ padding: 10px; }
+input{ margin-top: 3px; font: 12px "Verdana"; font-weight: bold; color: #6f6f6f; padding: 2px; border-right: 1px solid  #C0C0C0;  border-left:  1px solid #C0C0C0; border-top:  1px solid #C0C0C0; height: 14px; }
+select{
+margin-top: 3px;
+}
+.form-kat{ float: left; padding: 10px; border-left: 3px solid silver; border-bottom: 1px solid silver; }
+
+
+.miasta_kategorie{ float:left; width: 235px; padding: 5px; border: 1px solid silver; margin-left: 3px; margin-top: 3px; }
+
+.miasta_firmy{	float:left; width: 235px; padding: 5px; border: 1px solid black; margin-left: 3px; margin-top: 3px; }
+.miasta_obrazek{ margin-right: 5px; border: 1px solid silver; margin-bottom: 5px; }
+.button1{ border: 1px solid #528DCD; height: 27px; font-weight: bold; font-size: 12px; color: #5A5A5A; margin-top: 2px; background: url('img/middpass.png') repeat-x top left; width: 100%; }
+.form-kat2, .form-kat3{ width: 40%; padding: 10px; border-left: 3px solid silver; border-bottom: 1px solid silver; }
+.form-kat2{ float: left; }
+.form-kat3{ clear: both; }
+
+HR{ color: #77bcf1; background-color: #77bcf1; height: 1px; }
+#wiadomosc{ border: 1px solid silver; width: 495px; padding: 2px; line-height: 40px; }
+#wiadomosc h1{ margin: 0 0; color:#528DCD; border-left: 3px solid #C70000; font-family: Verdana; letter-spacing:2px; font-size:10px; font-weight:bold; background-color:#F0F2F3; padding-left:13px; line-height:20px; width: 478px; }
+.w_tresc{ margin-left: 20px; padding: 10px;  }
+
+h2{ margin: 5px 5px; color:#528DCD; border-right: 3px solid #C70000; font-family: Verdana; letter-spacing:2px; font-size:14px; font-weight:bold; background-color:#F0F2F3; padding-left:13px; line-height:26px; width: 96%; }
+
+h1{ margin: 0 0; color:#528DCD; border-left: 10px solid #528DCD; border-right: 3px solid #C70000; font-family: Verdana; letter-spacing:2px; font-size:14px; font-weight:bold; background-color:#F0F2F3; padding-left:13px; line-height:30px; width: 96%; }
+
+#main_right, .main_right h1{ font-size: 10px; border-left: 3px solid #C70000; border-right: none; line-height: 10px; }
+
+
+.fl{ clear: both; float: left; border-bottom: 1px solid #C0C0C0; width: 250px; font-size: 10px; }
+.fr{ float: left; border-bottom: 1px solid #C0C0C0; width: 200px; }
+.ff{ border-bottom: 1px solid #C0C0C0; width: 450px; font-weight: bold; }
+
+.category{ border: 1px solid silver; padding: 5px; font-size: 12px; }
+.category ul{ float: left; }
+
+TEXTAREA{ border: 1px solid #C0C0C0; width: 90%; }
+.file{ font-size: 10px; height: 20px; background-color: #F0F2F3; }
